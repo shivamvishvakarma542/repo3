@@ -13,3 +13,4 @@ for Project Management.
     2. Enterprise version:-you need to pay some amount to atlassian.
 7. It is product of Australia company atlassian.
 8. 98% company use Jira.
+i love :coffee: :pizza: and :dancer:.
